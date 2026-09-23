@@ -1,0 +1,332 @@
+[
+  {
+    "categoria": "Urgencias",
+    "anio": 2020,
+    "artefacto": "AtencionesUrgencia2020.zip",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://datos.gob.cl/dataset/atenciones-de-urgencia",
+    "url_descarga_directa": "https://repositoriodeis.minsal.cl/DatosAbiertos/AtencionesDeUrgencia/AtencionesUrgencia2020.zip",
+    "metodo_paquete": "automatico",
+    "notas": "ZIP oficial; contiene CSV anual de atenciones de urgencia."
+  },
+  {
+    "categoria": "Urgencias",
+    "anio": 2021,
+    "artefacto": "AtencionesUrgencia2021.zip",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://datos.gob.cl/dataset/atenciones-de-urgencia",
+    "url_descarga_directa": "https://repositoriodeis.minsal.cl/DatosAbiertos/AtencionesDeUrgencia/AtencionesUrgencia2021.zip",
+    "metodo_paquete": "automatico",
+    "notas": "ZIP oficial; contiene CSV anual de atenciones de urgencia."
+  },
+  {
+    "categoria": "Urgencias",
+    "anio": 2022,
+    "artefacto": "AtencionesUrgencia2022.zip",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://datos.gob.cl/dataset/atenciones-de-urgencia",
+    "url_descarga_directa": "https://repositoriodeis.minsal.cl/DatosAbiertos/AtencionesDeUrgencia/AtencionesUrgencia2022.zip",
+    "metodo_paquete": "automatico",
+    "notas": "ZIP oficial; contiene CSV anual de atenciones de urgencia."
+  },
+  {
+    "categoria": "Urgencias",
+    "anio": 2023,
+    "artefacto": "AtencionesUrgencia2023.zip",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://datos.gob.cl/dataset/atenciones-de-urgencia",
+    "url_descarga_directa": "https://repositoriodeis.minsal.cl/SistemaAtencionesUrgencia/AtencionesUrgencia2023.zip",
+    "metodo_paquete": "automatico",
+    "notas": "ZIP oficial; contiene CSV anual de atenciones de urgencia."
+  },
+  {
+    "categoria": "Urgencias",
+    "anio": 2024,
+    "artefacto": "AtencionesUrgencia2024.zip",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://datos.gob.cl/dataset/atenciones-de-urgencia",
+    "url_descarga_directa": "https://repositoriodeis.minsal.cl/SistemaAtencionesUrgencia/AtencionesUrgencia2024.zip",
+    "metodo_paquete": "automatico",
+    "notas": "ZIP oficial; contiene CSV anual de atenciones de urgencia."
+  },
+  {
+    "categoria": "Urgencias",
+    "anio": "2020-2024",
+    "artefacto": "Diccionario de datos AtencionesUrgencia.xlsx",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://datos.gob.cl/dataset/atenciones-de-urgencia",
+    "url_descarga_directa": "https://datos.gob.cl/dataset/be2a922f-8ea4-4ebc-8828-0c713b702cd2/resource/79c05b22-391b-4dbd-a362-ba088fecabab/download/diccionario-de-datos-atencionesurgencia.xlsx",
+    "metodo_paquete": "automatico",
+    "notas": "Diccionario común publicado en el catálogo oficial."
+  },
+  {
+    "categoria": "Establecimientos",
+    "anio": 2020,
+    "artefacto": "Base de Establecimientos 2020.xlsx",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "https://repositoriodeis.minsal.cl/ContenidoSitioWeb2020/Establecimientos/Base%20de%20Establecimientos%202020.xlsx",
+    "metodo_paquete": "automatico",
+    "notas": "Base anual oficial de establecimientos."
+  },
+  {
+    "categoria": "Establecimientos",
+    "anio": 2020,
+    "artefacto": "Diccionario de Datos 2020.xlsx",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "https://repositoriodeis.minsal.cl/ContenidoSitioWeb2020/Establecimientos/Diccionario%20de%20Datos%202020.xlsx",
+    "metodo_paquete": "automatico",
+    "notas": "Diccionario anual; usar el correspondiente al año analizado."
+  },
+  {
+    "categoria": "Establecimientos",
+    "anio": 2021,
+    "artefacto": "Base de Establecimientos 2021.xlsx",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "https://repositoriodeis.minsal.cl/ContenidoSitioWeb2020/Establecimientos/Base%20de%20Establecimientos%202021.xlsx",
+    "metodo_paquete": "automatico",
+    "notas": "Base anual oficial de establecimientos."
+  },
+  {
+    "categoria": "Establecimientos",
+    "anio": 2021,
+    "artefacto": "Diccionario de Datos 2021.xlsx",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "https://repositoriodeis.minsal.cl/ContenidoSitioWeb2020/Establecimientos/Diccionario%20de%20Datos%202021.xlsx",
+    "metodo_paquete": "automatico",
+    "notas": "Diccionario anual; usar el correspondiente al año analizado."
+  },
+  {
+    "categoria": "Establecimientos",
+    "anio": 2022,
+    "artefacto": "Base de Establecimientos 2022.xlsx",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "https://repositoriodeis.minsal.cl/ContenidoSitioWeb2020/Establecimientos/Base%20de%20Establecimientos%202022.xlsx",
+    "metodo_paquete": "automatico",
+    "notas": "Base anual oficial de establecimientos."
+  },
+  {
+    "categoria": "Establecimientos",
+    "anio": 2022,
+    "artefacto": "Diccionario de Datos 2022.xlsx",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "https://repositoriodeis.minsal.cl/ContenidoSitioWeb2020/Establecimientos/Diccionario%20de%20Datos%202022.xlsx",
+    "metodo_paquete": "automatico",
+    "notas": "Diccionario anual; usar el correspondiente al año analizado."
+  },
+  {
+    "categoria": "Establecimientos",
+    "anio": 2023,
+    "artefacto": "Base de Establecimientos 2023.xlsx",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "https://repositoriodeis.minsal.cl/ContenidoSitioWeb2020/Establecimientos/Base%20de%20Establecimientos%202023.xlsx",
+    "metodo_paquete": "automatico",
+    "notas": "Base anual oficial de establecimientos."
+  },
+  {
+    "categoria": "Establecimientos",
+    "anio": 2023,
+    "artefacto": "Diccionario de Datos 2023.xlsx",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "https://repositoriodeis.minsal.cl/ContenidoSitioWeb2020/Establecimientos/Diccionario%20de%20Datos%202023.xlsx",
+    "metodo_paquete": "automatico",
+    "notas": "Diccionario anual; usar el correspondiente al año analizado."
+  },
+  {
+    "categoria": "Establecimientos",
+    "anio": 2024,
+    "artefacto": "Base de Establecimientos 2024.xlsx",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "https://repositoriodeis.minsal.cl/ContenidoSitioWeb2020/Establecimientos/Base%20de%20Establecimientos%202024.xlsx",
+    "metodo_paquete": "automatico",
+    "notas": "Base anual oficial de establecimientos."
+  },
+  {
+    "categoria": "Establecimientos",
+    "anio": 2024,
+    "artefacto": "Diccionario de Datos 2024.xlsx",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "https://repositoriodeis.minsal.cl/ContenidoSitioWeb2020/Establecimientos/Diccionario%20de%20Datos%202024.xlsx",
+    "metodo_paquete": "automatico",
+    "notas": "Diccionario anual; usar el correspondiente al año analizado."
+  },
+  {
+    "categoria": "REM",
+    "anio": 2020,
+    "artefacto": "Base REM 2020",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "",
+    "metodo_paquete": "catalogo_oficial",
+    "notas": "Buscar REM y seleccionar el año. DEIS advierte que códigos, columnas y secciones pueden variar por año; descargar también el diccionario anual."
+  },
+  {
+    "categoria": "REM",
+    "anio": 2020,
+    "artefacto": "Diccionario REM 2020",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "",
+    "metodo_paquete": "catalogo_oficial",
+    "notas": "Diccionario anual requerido para interpretar códigos y prestaciones."
+  },
+  {
+    "categoria": "REM",
+    "anio": 2021,
+    "artefacto": "Base REM 2021",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "",
+    "metodo_paquete": "catalogo_oficial",
+    "notas": "Buscar REM y seleccionar el año. DEIS advierte que códigos, columnas y secciones pueden variar por año; descargar también el diccionario anual."
+  },
+  {
+    "categoria": "REM",
+    "anio": 2021,
+    "artefacto": "Diccionario REM 2021",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "",
+    "metodo_paquete": "catalogo_oficial",
+    "notas": "Diccionario anual requerido para interpretar códigos y prestaciones."
+  },
+  {
+    "categoria": "REM",
+    "anio": 2022,
+    "artefacto": "Base REM 2022",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "",
+    "metodo_paquete": "catalogo_oficial",
+    "notas": "Buscar REM y seleccionar el año. DEIS advierte que códigos, columnas y secciones pueden variar por año; descargar también el diccionario anual."
+  },
+  {
+    "categoria": "REM",
+    "anio": 2022,
+    "artefacto": "Diccionario REM 2022",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "",
+    "metodo_paquete": "catalogo_oficial",
+    "notas": "Diccionario anual requerido para interpretar códigos y prestaciones."
+  },
+  {
+    "categoria": "REM",
+    "anio": 2023,
+    "artefacto": "Base REM 2023",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "",
+    "metodo_paquete": "catalogo_oficial",
+    "notas": "Buscar REM y seleccionar el año. DEIS advierte que códigos, columnas y secciones pueden variar por año; descargar también el diccionario anual."
+  },
+  {
+    "categoria": "REM",
+    "anio": 2023,
+    "artefacto": "Diccionario REM 2023",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "",
+    "metodo_paquete": "catalogo_oficial",
+    "notas": "Diccionario anual requerido para interpretar códigos y prestaciones."
+  },
+  {
+    "categoria": "REM",
+    "anio": 2024,
+    "artefacto": "Base REM 2024",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "",
+    "metodo_paquete": "catalogo_oficial",
+    "notas": "Buscar REM y seleccionar el año. DEIS advierte que códigos, columnas y secciones pueden variar por año; descargar también el diccionario anual."
+  },
+  {
+    "categoria": "REM",
+    "anio": 2024,
+    "artefacto": "Diccionario REM 2024",
+    "institucion": "MINSAL / DEIS",
+    "pagina_oficial": "https://deis.minsal.cl/#datosabiertos",
+    "url_descarga_directa": "",
+    "metodo_paquete": "catalogo_oficial",
+    "notas": "Diccionario anual requerido para interpretar códigos y prestaciones."
+  },
+  {
+    "categoria": "GRD",
+    "anio": 2020,
+    "artefacto": "GRD / GRD-IR 2020",
+    "institucion": "FONASA",
+    "pagina_oficial": "https://datosabiertos.fonasa.cl/",
+    "url_descarga_directa": "",
+    "metodo_paquete": "catalogo_oficial",
+    "notas": "Seleccionar la base GRD/GRD-IR del año en Datos Abiertos FONASA. No se fija URL binaria porque el portal entrega los archivos dinámicamente."
+  },
+  {
+    "categoria": "GRD",
+    "anio": 2021,
+    "artefacto": "GRD / GRD-IR 2021",
+    "institucion": "FONASA",
+    "pagina_oficial": "https://datosabiertos.fonasa.cl/",
+    "url_descarga_directa": "",
+    "metodo_paquete": "catalogo_oficial",
+    "notas": "Seleccionar la base GRD/GRD-IR del año en Datos Abiertos FONASA. No se fija URL binaria porque el portal entrega los archivos dinámicamente."
+  },
+  {
+    "categoria": "GRD",
+    "anio": 2022,
+    "artefacto": "GRD / GRD-IR 2022",
+    "institucion": "FONASA",
+    "pagina_oficial": "https://datosabiertos.fonasa.cl/",
+    "url_descarga_directa": "",
+    "metodo_paquete": "catalogo_oficial",
+    "notas": "Seleccionar la base GRD/GRD-IR del año en Datos Abiertos FONASA. No se fija URL binaria porque el portal entrega los archivos dinámicamente."
+  },
+  {
+    "categoria": "GRD",
+    "anio": 2023,
+    "artefacto": "GRD / GRD-IR 2023",
+    "institucion": "FONASA",
+    "pagina_oficial": "https://datosabiertos.fonasa.cl/",
+    "url_descarga_directa": "",
+    "metodo_paquete": "catalogo_oficial",
+    "notas": "Seleccionar la base GRD/GRD-IR del año en Datos Abiertos FONASA. No se fija URL binaria porque el portal entrega los archivos dinámicamente."
+  },
+  {
+    "categoria": "GRD",
+    "anio": 2024,
+    "artefacto": "GRD / GRD-IR 2024",
+    "institucion": "FONASA",
+    "pagina_oficial": "https://datosabiertos.fonasa.cl/",
+    "url_descarga_directa": "",
+    "metodo_paquete": "catalogo_oficial",
+    "notas": "Seleccionar la base GRD/GRD-IR del año en Datos Abiertos FONASA. No se fija URL binaria porque el portal entrega los archivos dinámicamente."
+  },
+  {
+    "categoria": "cartografia_censo_2024",
+    "anio": 2024,
+    "artefacto": "Cartografía censal Censo 2024 - Chile",
+    "institucion": "INE",
+    "pagina_oficial": "https://www.ine.gob.cl/herramientas/portal-de-mapas/geodatos-abiertos",
+    "url_descarga_directa": "",
+    "metodo_paquete": "catalogo_oficial",
+    "notas": "En Geodatos Abiertos: Documentos y descargas > Cartografía > Censo 2024. Preferir cobertura nacional; hay capas político-administrativas y divisiones censales, en Shapefile y Geodatabase comprimidos."
+  },
+  {
+    "categoria": "cartografia_censo_2024",
+    "anio": 2024,
+    "artefacto": "Base manzana-entidad / documentación asociada",
+    "institucion": "INE",
+    "pagina_oficial": "https://censo2024.ine.gob.cl/resultados/",
+    "url_descarga_directa": "",
+    "metodo_paquete": "catalogo_oficial",
+    "notas": "Complemento opcional para vincular resultados censales con la cartografía; revisar diccionario y manual de uso."
+  }
+]
