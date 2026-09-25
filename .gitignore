@@ -1,0 +1,21 @@
+# Downloaded source archives and extracted raw datasets
+REM/**/*.zip
+REM/**/Datos/
+REM/**/SerieP*.csv
+REM/**/SerieP*.txt
+
+Urgencias/**/AtencionesUrgencia*.zip
+Urgencias/**/AtencionesUrgencia*.csv
+
+GRD/**/GRD_PUBLICO_*
+
+Establecimientos/**/Base_Establecimientos_*.xlsx
+
+# Large cartography files, if downloaded later
+cartografia_censo_2024/
+
+# Local notebook and operating-system artifacts
+**/.ipynb_checkpoints/
+**/__pycache__/
+.DS_Store
+Thumbs.db
